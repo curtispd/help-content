@@ -1,2 +1,5 @@
-help:
-  content: 'test'
+help_index:
+- key: compliance_ci_toolchain_id
+  content: './ci_toolchain.yaml'
+- key: ci_pipeline_id
+  content: './ci_pipeline.yaml'
