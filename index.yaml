@@ -1,5 +1,9 @@
+---
+version: '1'
 help_index:
-- key: compliance_ci_toolchain_id
+- type: project_config_output_property
+  key: compliance_ci_toolchain_id
   content: './ci_toolchain.yaml'
-- key: ci_pipeline_id
+- type: project_config_output_property
+  key: ci_pipeline_id
   content: './ci_pipeline.yaml'
