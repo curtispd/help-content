@@ -1,0 +1,12 @@
+---
+help_content:
+  title: Help
+  sections:
+  - title: Getting started with DevSecOps
+    body: |
+      1. Get familiar with [DevSecOps](https://www.ibm.com/think/topics/devsecops)
+      2. Learn about [DevSecOps with Continuous Delivery](https://cloud.ibm.com/docs/devsecops?topic=devsecops-devsecops_intro)
+      3. Understand [DevSecOps pielines](https://cloud.ibm.com/docs/devsecops?topic=devsecops-cd-devsecops-pipelines)
+  - title: Making changes to the app
+    body: |
+      More markdown
