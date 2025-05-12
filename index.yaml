@@ -7,3 +7,6 @@ help_index:
 - type: project_config_output_property
   key: ci_pipeline_id
   href: 'help/ci_pipeline.yaml'
+- type: project_config_output_property
+  key: pr_pipeline_id
+  href: 'help/pr_pipeline.yaml'
