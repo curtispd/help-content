@@ -4,7 +4,7 @@ help_index:
 - type: project_config_output_property
   key: ci_toolchain_id
   content:
-    default: 'help/ci_toolchain_bogus.yaml'
+    default: 'help/ci_toolchain.yaml'
     de: 'help/ci_toolchain_de.yaml'
     es: 'help/ci_toolchain_es.yaml'
     jp: 'help/ci_toolchain_jp.yaml'
